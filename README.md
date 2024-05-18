@@ -1,2 +1,5 @@
 # Portfolio-Website
-My portfolio website!
+#My portfolio website!
+
+#Do not use!
+#For educational purposes only!
